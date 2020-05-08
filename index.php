@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html style="scroll-behavior:smooth;">
+    <head>
+        <meta charset="UTF_8">
+        <meta name="viewport" content="width=width-device,initial-scale=1.0">
+        <title>AS tours and travels</title>
+        <link rel="icon" href="images/title.jpg" type="image/gif" sizes="16x16">
+        <link href="bootstrap/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+        <link href="Css.css" type="text/css" rel="stylesheet">
+    
+    </head>
+    <body>
+        <header class="bgcolor">
+            <div class="row text-white">
+                <div class="col-8 col-sm-8 col-md-6 col-lg-6 p-3">
+                    <section class="">
+                    <nav class="nav">
+                   
+                        <h3 class="my-auto pl-2 as"><span><strong>DREAM</strong></span> Destinations</h3>
+                    
+                    </nav>
+                    </section>
+                </div>
+                <div class="col-4 col-sm-4 col-md-6 col-lg-6 my-auto">
+                    <nav class="navbar navbar-expand-lg navbar-light ">
+                       <button class="navbar-toggler text-white ml-auto bg-white" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                       </button>
+
+                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                          <ul class="navbar-nav ml-auto  ">
+                             <li class="nav-item active">
+                               <a class="nav-link text-white" href="#home-section">Home <span class="sr-only ">(current)</span></a>
+                             </li>
+                             <li class="nav-item">
+                               <a class="nav-link text-white" href="#service-section">Packages</a>
+                             </li>
+                               <li class="nav-item">
+                               <a class="nav-link text-white" href="#place-section">Places</a>
+                             </li>
+                              <li class="nav-item">
+                               <a class="nav-link text-white" href="#contact-section">Contact</a>
+                             </li>
+                          </ul>
+   
+                         </div>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        
+        <section style="padding-top: 10em;" id="home-section">
+            <div class="container border1 p-2 pb-5">
+            <div class="row align-items-center">
+                <div class="col-md-6  my-auto sherlock">
+                    <img src="images/main.png" class="main img-fluid rounded-circle my-auto">   
+                </div>
+                <div class="col-md-6 text-center">
+                    <h4>KRISHNARAJ A S</h4>
+                    <h6>-Tours & Package consultant</h6>
+                    <p>"The world is a book and those who do not travel read only a page."</p>  
+                </div>
+            </div>  
+           </div>
+        </section>
+        
+        <section class="section1" style="padding-top: 6em;" id="service-section">
+            
+            <h4 class="available">AVAILABLE PACKAGES</h4>
+            <p class="text-center p-3 ml-1 mr-1 " >Package tours are excursions or holidays which “package” a variety of services together to make a single “combined” trip. Commonly they combine such things as transport, accommodation and meals. They may also include the provision of a tour guide and/or leader. Tours can be long or short in duration and distance. They may be a one-day or overnight package, or they could be a period of a month or more.
+
+                              
+
+               </p>
+                    <center>
+            <div class="container-fluid">
+                
+                <div class="row pb-3">
+                    
+                <div class="col-lg-3  col-md-3  col-sm-6 pt-3">
+                    <div class="card">
+                        <img src="images/packages/thenmala.png" class="card-img-top img-fluid">
+                      <div class="card-body">
+                          <h5 class="card title">ONE DAY </h5>
+                          <p class="card-text">Thenmala<br>Palaruvi<br>Kuttalam</p>
+                          <h6 class="more">more details please contact</h6>
+                          <a href="" class="btn btn-primary">Details</a>
+                      </div>
+                    </div> 
+                </div>
+                 <div class="col-lg-3 col-md-3 col-sm-6 pt-3">
+                    <div class="card">
+                        <img src="images/packages/munnar.png" class="card-img-top img-fluid">
+                      <div class="card-body">
+                          <h5 class="card title">TWO DAY</h5>
+                          <p class="card-text">Munnar<br>Thekkadi /<br>Vagamone</p>
+                           <h6 class="more">more details please contact</h6>
+                          <a href="" class="btn btn-primary">Details</a>
+                      </div>
+                    </div> 
+                </div>
+                 <div class="col-lg-3  col-md-3 col-sm-6 pt-3">
+                    <div class="card">
+                        <img src="images/packages/ootty.png" class="card-img-top img-fluid">
+                      <div class="card-body">
+                          <h5 class="card title">THREE DAY</h5>
+                          <p class="card-text">Ootty<br>Wayanad<br>Wonderla</p>
+                           <h6 class="more">more details please contact</h6>
+                          <a href="" class="btn btn-primary">Details</a>
+                      </div>
+                    </div> 
+                </div>
+                 <div class="col-lg-3 col-md-3 col-sm-6 pt-3">
+                    <div class="card">
+                        <img src="images/packages/wayanad.png" class="card-img-top img-fluid">
+                      <div class="card-body">
+                          <h5 class="card title">FOUR DAY</h5>
+                          <p class="card-text">Wayanad<br>Coorg<br>Mysore</p>
+                               <h6 class="more">more details please contact</h6>
+                          <a href="" class="btn btn-primary">Details</a>
+                      </div>
+                    </div> 
+                </div>
+                    <div class="row">
+                           <div class="col-lg-3 col-md-3 col-sm-6 pt-3">
+                    <div class="card">
+                        <img src="images/packages/coorg.png" class="card-img-top img-fluid">
+                      <div class="card-body">
+                          <h5 class="card title">FIVE DAY</h5>
+                          <p class="card-text">Wayanad<br>Coorg<br>Mysore</p>
+                               <h6 class="more">more details please contact</h6>
+                          <a href="" class="btn btn-primary">Details</a>
+                      </div>
+                    </div> 
+                </div>
+                           <div class="col-lg-3 col-md-3 col-sm-6 pt-3">
+                    <div class="card">
+                        <img src="images/packages/mysore.png" class="card-img-top img-fluid">
+                      <div class="card-body">
+                          <h5 class="card title">SIX DAY</h5>
+                          <p class="card-text">Wayanad<br>Coorg<br>Mysore</p>
+                               <h6 class="more">more details please contact</h6>
+                          <a href="" class="btn btn-primary">Details</a>
+                      </div>
+                    </div> 
+                </div>
+                           <div class="col-lg-3 col-md-3 col-sm-6 pt-3">
+                    <div class="card">
+                        <img src="images/packages/bangalore.png" class="card-img-top img-fluid">
+                      <div class="card-body">
+                          <h5 class="card title">SEVEN DAY</h5>
+                          <p class="card-text">Wayanad<br>Coorg<br>Chikmanglore</p>
+                               <h6 class="more">more details please contact</h6>
+                          <a href="" class="btn btn-primary">Details</a>
+                      </div>
+                    </div> 
+                </div>
+                    </div>
+            </div>
+            </div>
+                    </center>            
+        </section>
+        
+      
+        <section class="section1 pt-3" id="place-section">
+           
+            <center>
+                   <h4 class="available p-5">PLACES</h4>
+                   <p class="text-center p-3 ml-1 mr-1 " >A tourist attraction is a place of interest where tourists visit, typically for its inherent or an exhibited natural or cultural value, historical significance, natural or built beauty, offering leisure and amusement.</p>
+            <br>
+            <div class="container-fluid">
+                <div class="row pb-3">
+                    
+                <div class="col-lg-3 col-md-3 col-sm-6">
+                    <div class="card">
+                        <img src="images/places/goa.png" class="card-img-top">
+                    <div class="card-body">
+                    <h5 class="card title">GOA</h5>
+                    <p class="card-text">Colva beach<br>Boat Cruise<br>Aguda fort</p>
+                    <a href="" class="btn btn-primary">Details</a>
+                    </div>
+                    </div> 
+                </div>
+                  <div class="col-lg-3 col-md-3 col-sm-6">
+                    <div class="card">
+                        <img src="images/places/agra.png" class="card-img-top">
+                    <div class="card-body">
+                    <h5 class="card title">Agra</h5>
+                    <p class="card-text">Taj Mahal<br>Agra<br>Agra Fort</p>
+                    <a href="" class="btn btn-primary">Details</a>
+                    </div>
+                    </div> 
+                </div>
+                  <div class="col-lg-3 col-md-3 col-sm-6">
+                    <div class="card">
+                        <img src="images/places/delhi.png" class="card-img-top">
+                    <div class="card-body">
+                    <h5 class="card title">Delhi</h5>
+                    <p class="card-text">Red Fort<br>Rajghut<br>India Gate</p>
+                    <a href="" class="btn btn-primary">Details</a>
+                    </div>
+                    </div> 
+                </div>
+                  <div class="col-lg-3 col-md-3 col-sm-6">
+                    <div class="card"">
+                        <img src="images/places/mysore.png" class="card-img-top">
+                    <div class="card-body">
+                    <h5 class="card title">Mysoore</h5>
+                    <p class="card-text">MYsore palace<br>zoo<br>Chamundi hills</p>
+                    <a href="" class="btn btn-primary">Details</a>
+                    </div>
+                    </div> 
+                </div>
+                    <div class="row">
+                         <div class="col-lg-3 col-md-3 col-sm-6">
+                    <div class="card"">
+                        <img src="images/places/chennai.png" class="card-img-top">
+                    <div class="card-body">
+                    <h5 class="card title">Chennai</h5>
+                    <p class="card-text">Vandaloor Zoo<br>Snake Park<br>Mareena Beach</p>
+                    <a href="" class="btn btn-primary">Details</a>
+                    </div>
+                    </div> 
+                </div>
+                         <div class="col-lg-3 col-md-3 col-sm-6">
+                    <div class="card"">
+                        <img src="images/places/kodai.png" class="card-img-top">
+                    <div class="card-body">
+                    <h5 class="card title">Kodaikanal</h5>
+                    <p class="card-text">Kodai lake<br>Piller rocks<br>Suicide point</p>
+                    <a href="" class="btn btn-primary">Details</a>
+                    </div>
+                    </div> 
+                </div>
+                         <div class="col-lg-3 col-md-3 col-sm-6">
+                    <div class="card"">
+                        <img src="images/places/chik.png" class="card-img-top">
+                    <div class="card-body">
+                    <h5 class="card title">Chikmanglore</h5>
+                    <p class="card-text">Cofee Museum<br>Kadambi falls<br>Badra wildlife</p>
+                    <a href="" class="btn btn-primary">Details</a>
+                    </div>
+                    </div> 
+                </div>
+                    </div>
+            </div> 
+            </div>
+            </center>
+        </section>
+            <footer class="footer pt-4 mt-4" id="contact-section">
+                <div class="container">
+                    <div class="row text-center">
+                   
+                    <div class="col-lg-4">
+                        <h6 class="foot_h">Contact</h6>
+                         <p class="foot_p">mob:8606942885<br>krishnarajas123@gmail.com</p>
+                    </div>
+                    <div class="col-lg-4">
+                        <h6 class="foot_h">Social media</h6>
+                        <p class="foot_p">whatsapp<br><a href="https://instagram.com/toursandpackages?igshid=h7xnm1iogzvu">instagram</a><br><a href="https://www.facebook.com/Tours-and-packages-698907830544156/">facebook</a></p>
+                    </div>
+                    <div class="col-lg-4">
+                        <h6 class="foot_h">About</h6>
+                        <p class="foot_p">Krishnaraj A S<br>Tours & Package consultant</p>
+                    </div>
+                </div>
+                </div>
+            </footer>
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,76 @@
+nav.navigation
+{
+    margin-top: 4%;
+    margin-bottom: 4%;
+    
+    
+}
+.as
+{
+    text-decoration:none; 
+}
+header.bgcolor
+{
+   /* background: linear-gradient(#000000,#ff0000);*/
+    background-image: url(images/bac.jpg); 
+     
+ 
+    background-position:center;
+    background-size: cover;
+    /*bacground-repeat:no-repeat;*/
+    width:100%;
+     z-index: 1;
+     position:fixed;
+}
+.logo-pre
+{
+    width:13%;
+    border-radius: 85px;
+}
+.inner
+{
+    width:100%;
+}
+.link
+{
+    cursor: pointer;
+}
+.main
+{
+  max-width: 75%;
+display:inline-block;  
+}
+.available
+{
+    text-align:center;
+}
+.section1
+{
+   background:linear-gradient(#ffffff,#5f5d5f61);
+    /* background: linear-gradient(#000000,#ff0000);*/
+}
+.border1
+{
+    border-bottom: solid 1px;
+}
+.sherlock
+{
+        text-align: center;
+}
+.footer
+{
+   /*background:linear-gradient(#ffffff,#5f5d5f61); */
+   background: linear-gradient(#e0dcdc,#00272273);
+}
+.foot_h
+{
+font-size:80%;    
+}
+.foot_p
+{
+    font-size: 60%;
+}
+.more
+{
+    font-style: italic;
+}
